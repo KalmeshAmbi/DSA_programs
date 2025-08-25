@@ -1,5 +1,5 @@
-package Arrays;
+// package Arrays;
 
-public class SearchInMountain {
+// public class SearchInMountain {
     
-}
+// }

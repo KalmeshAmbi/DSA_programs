@@ -1,5 +1,3 @@
-package Arrays;
-
 public class nextGreatestToTarget {
     public static void main(String[] args) {
         char[] letters ={'a','b','c'};
