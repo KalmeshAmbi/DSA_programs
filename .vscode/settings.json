@@ -14,5 +14,6 @@
             "username": "root",
             "password": "kalmi@8055"
         }
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
